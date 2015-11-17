@@ -1,18 +1,18 @@
-WeeMVC 是一种面向 Flash IDE的、简洁的ActionScript快速开发框架。
+WeeMVC is a pure and simple ActionScript MVC framework for Flash / Flex IDE.
 
-适用场景：
-在使用 FLASH IDE 开发强交互、视觉导向项目的时候； 
+Usage:
+1 Whenever you want to use Flash IDE to create inteactive/vision-based projects, it is a great way to use WeeMVC to organize your codes.
 
-新手入门开发的时候； 
+2 It is good for newbie.
 
-快速开发的时候。 
+3 It is perfect for quick programming.
 
 
 
-项目主页：weemvc.org
+Project home page锛歸eemvc.org
 
-SVN：http://weemvc.googlecode.com/svn/trunk/
+SVN锛歨ttp://weemvc.googlecode.com/svn/trunk/
 
-在线提交 BUG：http://code.google.com/p/weemvc/issues/list
+Submit bug(s)锛歨ttp://code.google.com/p/weemvc/issues/list
 
-联系方式(MSN)：ibio520@hotmail.com
+Author锛歨ttp://ibio.github.io/
